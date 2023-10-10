@@ -1,4 +1,4 @@
-<img src="./img/logoemi.png"/>
+<img src="logoemi.png"/>
 
 <h2 align="left" id="macropower-tech">Cosas que me apaño</h2>
 
