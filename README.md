@@ -76,7 +76,7 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="kirby12.png" width="48" height="48" alt="TypeScript" />
+        <img src="kirby13.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Kali
     </td>
