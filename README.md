@@ -10,43 +10,43 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
       <a href="#macropower-tech">
         <img src="kirby1.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Ethereum
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby2.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Solidity
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby3.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Chainlink
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby4.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Java
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby5.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Javascript
+      <br>Phyton
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby6.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>HTML
+      <br>Blockchein
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="kirby7.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>CSS
+      <br>LUA
     </td>
   </tr>
 </table>
