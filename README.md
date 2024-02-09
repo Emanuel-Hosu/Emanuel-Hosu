@@ -85,5 +85,5 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
 
 <h1 align="center"></h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/emanuel-hosu/"><img align="center" src="kirby15.png"/></a> &nbsp;&nbsp;&nbsp; <a href="emanuel.hosu@colegiolitterator.com"><img align="center" src="kirby16.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Emisito"><img align="center" src="./img/kirby19.png"/></a>
+<a href="https://www.linkedin.com/in/emanuel-hosu/"><img align="center" src="kirby15.png"/></a>
 </p>
