@@ -49,14 +49,6 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
       <br>CSS
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech">
-        <img src="kirby8.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>C++
-    </td>
-  </tr>
 </table>
 
 <h1 align="center"></h1>
