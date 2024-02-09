@@ -56,30 +56,6 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="kirby10.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>LaTeX
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="kirby10.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Eclipse
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="kirby11.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Visual Code
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="kirby13.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Kali
-    </td>
   </tr>
 </table>
 
