@@ -20,7 +20,7 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML
     </td>
