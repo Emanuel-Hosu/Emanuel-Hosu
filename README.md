@@ -8,8 +8,7 @@ Eyeyeyeyeyeyyyy, que solo es una prueba chill out
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="![image](https://github.com/emisito/emisito/assets/131873705/7e9a5863-268c-4e9d-a620-c96e38dc4ef5)
-" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Java
     </td>
