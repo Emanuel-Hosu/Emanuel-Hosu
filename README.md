@@ -5,6 +5,7 @@
 ¡Hola! 👋 Si estás aquí, es por algo. Me llamo Emanuel, pero todos me dicen Emi. Actualmente estudio 1º de Desarrollo de Aplicaciones Multiplataforma (DAM), y este es mi perfil de GitHub. Aquí encontrarás un poco de todo: calculadoras, "videojuegos", simuladores de máquinas virtuales y muchas otras cosas más. Todo el código que encontrarás aquí ha sido escrito por mí como parte de los proyectos asignados por mis profesores. También tengo algunas aplicaciones web, pero para más información, ¡no dudes en contactarme!
 
 📧 Email: emisitokomunica@gmail.com
+
 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/emanuel-hosu/)
 
 <table align="center" style="margin: 0px auto;">
