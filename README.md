@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[https://cdn-icons-png.flaticon.com/512/2091/2091665.png](https://www.google.com/search?sca_esv=1052824479652a46&q=App+Scripts&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdzTfxpAVBoexMFZnKJBpl_OnTFfcge8advfRBIXE7C_RezcKtzzoo30BU_DvyMiKvqR1OqgLBfwUcS3SX0gXr68loB6xwAGagy2ePrV6qVso8O4zie3zJmKSUqhxY0XCWYKMt7U&sa=X&ved=2ahUKEwi49uL_6PKIAxV39gIHHUMqCHIQtKgLegQIGhAB&biw=1536&bih=702&dpr=1.25#vhid=dldH6iSlhxOTCM&vssid=mosaic)" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/640px-Google_Apps_Script.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Apps Scripts
     </td>
