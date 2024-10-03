@@ -30,9 +30,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Tailwind CSS
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Astro.svg/1200px-Astro.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/astrojs.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Astro
     </td>
