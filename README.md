@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/640px-Google_Apps_Script.svg.png" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
