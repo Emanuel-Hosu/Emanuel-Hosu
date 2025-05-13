@@ -1,5 +1,3 @@
-# <div align="center">¡Bienvenido a mi GitHub!</div>
-
 <div align="center">
   <img src="logoemi.png" alt="Emanuel Hosu - Logo Espacio" width="100%"/>
 </div>
