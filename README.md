@@ -1,61 +1,62 @@
-<img src="logoemi.png"/>
+# 👋 ¡Hola, Mundo!
 
-<h2 align="left" id="macropower-tech">Biografía</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Especialista+en+NextJS;Apasionado+por+Frontend" alt="Typing SVG" />
+</div>
 
-¡Heyyy! 👋 Si estás aquí, es por algo. Me llamo Emanuel, pero todos me dicen Emi. Actualmente estudio 2º de Desarrollo de Aplicaciones Multiplataforma (DAM), y este es mi perfil de GitHub. Aquí encontrarás un poco de todo: calculadoras, "videojuegos", simuladores de máquinas virtuales y muchas otras cosas más. Todo el código que encontrarás aquí ha sido escrito por mí como parte de los proyectos asignados por mis profesores. También tengo algunas aplicaciones web, pero para más información, ¡no dudes en contactarme!
+## 💻 Tecnologías
 
-📧 Email: em.hosu@gmail.com
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
 
-💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/emanuel-hosu/)
+## 📊 Estadísticas
 
-<table align="center" style="margin: 0px auto;">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Phyton" />
-      </a>
-      <br>Phyton
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Hosu&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Hosu&layout=compact&theme=tokyonight" />
+</div>
 
-<h1 align="center"></h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/emanuel-hosu/"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
-</p>
+## 🔥 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/Emanuel-Hosu/airbnb-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=airbnb-clone&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Emanuel-Hosu/messenger-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=messenger-clone&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Emanuel-Hosu/threads-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=threads-clone&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Emanuel-Hosu/spotifyclone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=spotifyclone&theme=tokyonight" />
+  </a>
+</div>
+
+## 📫 Contacto
+
+<div align="center">
+  <a href="https://github.com/Emanuel-Hosu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hosuemanuel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emanuel-Hosu&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
+</div>
