@@ -8,13 +8,6 @@ Si estás aquí, es por algo. Me llamo Emanuel, pero todos me dicen **Emi**.
 
 Actualmente estudio 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, y este es mi perfil de GitHub.
 
-Aquí encontrarás un poco de todo:
-- 🧮 **Calculadoras**
-- 🎮 **"Videojuegos"**
-- 💻 **Simuladores de máquinas virtuales**
-- 🌐 **Aplicaciones web**
-- ✨ **Y muchas otras cosas más**
-
 Todo el código que encontrarás aquí ha sido escrito por mí como parte de los proyectos asignados por mis profesores.
 
 También tengo algunas aplicaciones web, pero para más información, **¡no dudes en contactarme!**
