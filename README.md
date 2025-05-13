@@ -29,19 +29,19 @@
 ## 🔥 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/Emanuel-Hosu/airbnb-clone">
+  <a href="https://github.com/Emanuel-Hosu/airbnb-clone](https://github.com/Emanuel-Hosu/Pocket-Meme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=airbnb-clone&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Emanuel-Hosu/messenger-clone">
+  <a href="https://github.com/Emanuel-Hosu/Web-Torneo-De-Interciclos-de-videojuegos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=messenger-clone&theme=tokyonight" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Emanuel-Hosu/threads-clone">
+  <a href="https://github.com/Emanuel-Hosu/Tkinter-and-terminal-in-Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=threads-clone&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Emanuel-Hosu/spotifyclone">
+  <a href="https://github.com/Emanuel-Hosu/2DAM-Multimedia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel-Hosu&repo=spotifyclone&theme=tokyonight" />
   </a>
 </div>
