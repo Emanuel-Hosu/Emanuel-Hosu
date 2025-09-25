@@ -8,7 +8,7 @@
 
 Si estás aquí, es por algo. Me llamo Emanuel, pero todos me dicen **Emi**. 
 
-Actualmente estudio 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, y este es mi perfil de GitHub.
+Soy un Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, y este es mi perfil de GitHub.
 
 Todo el código que encontrarás aquí ha sido escrito por mí como parte de los proyectos asignados por mis profesores.
 
